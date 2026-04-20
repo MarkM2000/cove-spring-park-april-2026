@@ -3,13 +3,12 @@ body {
   margin: 0;
 }
 
-header {
-  padding: 154px 0 100px;
-  background-color: #ffffff;
-}
-
 * {
   box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
