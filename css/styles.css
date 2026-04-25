@@ -5,6 +5,13 @@ body {
   font-weight: 300;
 }
 
+header {
+  background-color: #2E6F40;
+  color: white;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
 * {
   box-sizing: border-box;
 }
