@@ -14,14 +14,17 @@ body {
 header {
   padding: 100px 20px;
   text-align: center;
-  background: linear-gradient(rgba(252,250,248,0.8), rgba(252,250,248,0.8)), url('images/Hurst Falls, Cove Spring Park.jpg');
+  background-color: #2E6F40;
+  color: white;
+  text-align: center;
+  padding: 3rem 1rem;
   background-size: cover;
   background-position: center;
   margin-bottom: 80px;
 }
 
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Work Sans', serif;
   font-size: 4rem;
   letter-spacing: -1px;
   margin-bottom: 10px;
@@ -36,7 +39,7 @@ header p {
 }
 
 h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Work Sans', serif;
   font-size: 2.5rem;
   text-align: center;
   margin-bottom: 50px;
@@ -75,7 +78,7 @@ h2::after {
 .desc {
   padding: 15px 0;
   font-style: italic;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Work Sans', serif;
   font-size: 1.1rem;
   border-bottom: 1px solid #eee;
 }
